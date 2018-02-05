@@ -1,10 +1,16 @@
-# Project Title
+# C++ Learning 
 
-One Paragraph of project description goes here
+In my processs on learning I had many difficult obstacles, because I am not a developers. However I aware that many knownledge is by tenacity also for my experience I would like to provide you some shorcuts  in your processs to learning.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+We need to explore the different resources to could help us to give a big step and make the process enjoyable. The first step is look for information such as web pages, bookk and so on. 
+
+Let me give you some resources got by my experience:
+
+*[Repl.it](https://repl.it)        
+Savitch Absolute CPP 1st Ed.       
+CPlusplus Notes for professionals  
 
 ### Prerequisites
 
